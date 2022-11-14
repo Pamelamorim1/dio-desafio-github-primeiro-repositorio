@@ -5,17 +5,17 @@ Desafio de Projeto Git/Github.
 
 ### :bookmark_tabs: Índice
 
-- [Introdução ao Projeto](#introdução-ao-projeto)
+- [Introdução ao Projeto](#-introdução-ao-projeto)
 
-- [Anotações sobre o Git/Github](#-Anotações-sobre-Git/Github)
+- [Anotações sobre o Git/Github](#-anotações-sobre-git/github)
 
   
 
-#### :books: Introdução ao Projeto
+### :books: Introdução ao Projeto
 
 Este repositório foi criado para o desenvolvimento de projetos da DIO, visando trazer para prática o que está sendo aprendido através da plataforma.
 
-#### :page_with_curl: Anotações sobre o Git/Github
+### :page_with_curl: Anotações sobre o Git/Github
 
 Através das primeiras aulas de introdução ao Git/Github, trouxe alguns comandos que pude aprender durante o processo estudo delas. 
 
