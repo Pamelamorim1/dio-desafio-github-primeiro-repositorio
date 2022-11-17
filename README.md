@@ -11,9 +11,9 @@ Desafio de Projeto Git/Github.
 
 - [Primeiras paginas interativas com JS](#triangular_flag_on_post-primeiras-p%C3%A1ginas-interativas-com-js)
 
-- [Conhecendo funções JS](#-conhecendo-funções-js)
+- [Conhecendo funções JS](#woman_scientist-conhecendo-fun%C3%A7%C3%B5es-js)
 
-
+- [Entendendo sobre objetos](#repeat_one-entendendo-sobre-objetos)
 
 ### :books: Introdução ao Projeto
 
@@ -35,4 +35,8 @@ Caso queira visualizar [Link para Primeiras páginas interativas com JS](https:/
 
 Em seguida, pude conhecer a fundo como funciona as funções no JS, e sua interatividade em projetos criados com relação direta ao nosso dia a dia. 
 
-Caso queira visualizar [Link para Conhecendo funções JavaScript](Desenvolvimento).
+Caso queira visualizar [Link para Conhecendo funções JavaScript](https://github.com/Pamelamorim1/dio-desafio-github-primeiro-repositorio/tree/main/Projetos/Conhecendo%20func%C3%B5es%20JavaScript).
+
+### :repeat_one: Entendendo sobre objetos
+
+Caso queira visualizar [Link para Entendendo sobre objetos](https://github.com/Pamelamorim1/dio-desafio-github-primeiro-repositorio/tree/main/Projetos/Entendendo%20sobre%20objetos/Objetos)
