@@ -1,7 +1,7 @@
 # Repositório dos Projetos Git/Github
 Desafio de Projeto Git/Github.
 
-> Status: Desenvolvimento :warning:
+> Status: Concluído.
 
 ### :bookmark_tabs: Índice
 
