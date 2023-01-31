@@ -1,7 +1,7 @@
 # Repositório dos Projetos Git/Github
 Desafio de Projeto Git/Github.
 
-> Status: Concluído.
+> Status: Concluído :white_check_mark:
 
 ### :bookmark_tabs: Índice
 
@@ -55,6 +55,10 @@ Caso queira visualizar [Link para Array e estruturas de repetição](https://git
 
 ### :gear: Importação e Exportação
 
-Finalizando a parte inicial para introdução a JS, o curso proporcionou uma interação entre códigos da mesma linguagem para sabermos mais sobre como movimentar documentos entre si em um mesmo projeto.
+Finalizando a introdução, o curso proporcionou uma interação entre códigos da mesma linguagem para sabermos mais sobre como movimentar documentos entre si em um mesmo projeto.
 
 Caso queira visualizar [Link para Importação e Exportação](https://github.com/Pamelamorim1/dio-desafio-github-primeiro-repositorio/tree/main/Projetos/Importacao%20js).
+
+Para entrar em contato, basta acessar a rede social abaixo.
+
+:small_blue_diamond: [LinkedIn](https://linkedin.com/in/p%C3%A2mela-taiane-94558122b) 
