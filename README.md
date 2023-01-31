@@ -15,9 +15,9 @@ Desafio de Projeto Git/Github.
 
 - [Entendendo sobre objetos](#repeat_one-entendendo-sobre-objetos)
 
-- [Array e estruturas de repetição](#-array-e-estruturas-de-repeticao)
+- [Array e estruturas de repetição](#repeat-array-e-estruturas-de-repeti%C3%A7%C3%A3o)
 
-- [Importação e Exportação](#importacao-e-exportacao)
+- [Importação e Exportação](#gear-importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o)
 
 ### :books: Introdução ao Projeto
 
@@ -47,13 +47,13 @@ Com o intuito de aprimorar os conhecimentos sobre objetos em JS, nessa parte con
 
 Caso queira visualizar [Link para Entendendo sobre objetos](https://github.com/Pamelamorim1/dio-desafio-github-primeiro-repositorio/tree/main/Projetos/Entendendo%20sobre%20objetos/Objetos).
 
-### :repeat:Array e estruturas de repetição
+### :repeat: Array e estruturas de repetição
 
 Nesse tópico, trouxe as principais estruturas no JS, com exercícios para fixação, pude aprender sobre listas e seus efeitos num código.
 
 Caso queira visualizar [Link para Array e estruturas de repetição](https://github.com/Pamelamorim1/dio-desafio-github-primeiro-repositorio/tree/main/Projetos/Listas%20(arrays)).
 
-### :gear:Importação e Exportação
+### :gear: Importação e Exportação
 
 Finalizando a parte inicial para introdução a JS, o curso proporcionou uma interação entre códigos da mesma linguagem para sabermos mais sobre como movimentar documentos entre si em um mesmo projeto.
 
